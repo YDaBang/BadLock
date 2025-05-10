@@ -30,7 +30,7 @@ For Samsung Device Magisk Module And Lsposed Module
 
 SuperRW가 적용된 삼성 디바이스를 이용자가 수정할 방법이 복잡하고 범용적이지 않아서 만든 모듈들입니다.
 
-Magisk(https://github.com/topjohnwu/Magisk)와 Lsposed(https://github.com/JingMatrix/LSPosed)가 설치된 삼성 디바이스에 설치해야 모든 기능이 사용 가능합니다. 
+Magisk( https://github.com/topjohnwu/Magisk )와 Lsposed( https://github.com/JingMatrix/LSPosed )가 설치된 삼성 디바이스에 설치해야 모든 기능이 사용 가능합니다. 
 
 BadLock_Magisk_V1.0.Zip
 기초적인 Magisk 모듈입니다.
