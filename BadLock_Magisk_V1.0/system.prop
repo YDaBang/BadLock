@@ -1,3 +1,0 @@
-# 가상 태블릿 모드 설정
-ro.build.characteristics=phone
-ro.cmc.device_type=sd
