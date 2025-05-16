@@ -1,0 +1,23 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.lsposed.badlock'  // 변경됨
+    compileSdk 33
+
+    defaultConfig {
+        minSdk 21
+        targetSdk 33
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+}
+
+dependencies {
+    compileOnly files('libs/xposed-api-82.jar')
+}
